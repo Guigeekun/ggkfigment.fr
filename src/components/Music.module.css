@@ -25,23 +25,13 @@
 
 .meta {
   display: flex;
-  align-items: flex-end;
+  align-items: center;
   justify-content: space-between;
   gap: 16px;
   padding: 16px 8px 8px;
 }
 
-.series {
-  font-family: var(--font-mono);
-  font-weight: 300;
-  font-size: 0.7rem;
-  letter-spacing: 0.2em;
-  text-transform: uppercase;
-  color: var(--ink-faint);
-}
-
 .trackTitle {
-  margin-top: 6px;
   font-family: var(--font-display);
   font-weight: 300;
   font-size: 1.6rem;
@@ -60,8 +50,17 @@
   padding: 4px 10px;
 }
 
+.handmade {
+  margin-top: 36px;
+  font-family: var(--font-display);
+  font-weight: 300;
+  font-style: italic;
+  font-size: 1.35rem;
+  color: var(--ink-dim);
+}
+
 .alsoOn {
-  margin-top: 40px;
+  margin-top: 20px;
   display: flex;
   align-items: center;
   flex-wrap: wrap;

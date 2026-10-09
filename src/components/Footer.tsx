@@ -11,7 +11,6 @@ export default function Footer() {
         <p className={styles.item}>
           © {year} Guilleme Benoit — figment<span className={styles.dot}>.</span> {t.footer.rights}
         </p>
-        <p className={styles.item}>{t.footer.made}</p>
       </div>
     </footer>
   )

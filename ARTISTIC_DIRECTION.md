@@ -166,7 +166,7 @@ Lenis (lerp 0.1) ou équivalent maison — jamais au point de casser l'ancre de 
 │──────────────────────────────────────────────────────────────────────────│
 │ 05 CONTACT — grande phrase serif « Donnons forme à vos idées. »          │
 │    email en grand + icônes fines : YouTube · GitHub · LinkedIn           │
-└─ FOOTER — © 2026 Guilleme Benoit — figment. — mentions — fait main      ┘
+└─ FOOTER — © 2026 Guilleme Benoit — figment. — mentions légales          ┘
 ```
 
 ---
@@ -222,6 +222,6 @@ Lenis (lerp 0.1) ou équivalent maison — jamais au point de casser l'ancre de 
    *Low Effort Music*, *Chaotic Carnival*, la compile DnB ?).
 3. **Pitch freelance** : services exacts, années d'expérience, stack de prédilection,
    disponibilité (date / temps partiel), zone (remote / Paris / Lyon ?).
-4. **Liens plateformes musique** : Spotify, Apple Music (URLs artiste exactes).
+4. **Liens plateformes musique** : Spotify ✓ (fait), Apple Music (URL exacte à fournir).
 5. Optionnel : photo/portrait, logo préféré (`figment.` validé ?), mentions légales
    (nom, SIRET si auto-entrepreneur).

@@ -15,15 +15,14 @@ export default function Music() {
           <article key={track.id} className={styles.card}>
             <YtFacade id={track.id} title={track.title} />
             <div className={styles.meta}>
-              <div>
-                <p className={styles.series}>{track.series}</p>
-                <h3 className={styles.trackTitle}>{track.title}</h3>
-              </div>
+              <h3 className={styles.trackTitle}>{track.title}</h3>
               <span className={styles.tag}>{track.tag}</span>
             </div>
           </article>
         ))}
       </div>
+
+      <p className={styles.handmade}>{t.music.handmade}</p>
 
       <p className={styles.alsoOn}>
         <span className="kicker">{t.music.alsoOn}</span>

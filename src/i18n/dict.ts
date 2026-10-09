@@ -21,6 +21,7 @@ const fr = {
     kicker: '04 — Musique',
     title: 'Musique',
     lead: "Drum & bass, expérimentations et séries Low Effort Music — composé à la maison, publié au fil de l'eau.",
+    handmade: 'Fait main, avec amour.',
     play: 'Écouter',
     alsoOn: 'Aussi disponible sur',
   },
@@ -61,7 +62,6 @@ const fr = {
     socialsLabel: 'Ailleurs',
   },
   footer: {
-    made: 'Fait main, sans framework CSS.',
     rights: 'Tous droits réservés.',
   },
 }
@@ -89,6 +89,7 @@ const en: Dict = {
     kicker: '04 — Music',
     title: 'Music',
     lead: 'Drum & bass, experiments and the Low Effort Music series — made at home, released as it comes.',
+    handmade: 'Handmade, with love.',
     play: 'Listen',
     alsoOn: 'Also available on',
   },
@@ -129,7 +130,6 @@ const en: Dict = {
     socialsLabel: 'Elsewhere',
   },
   footer: {
-    made: 'Handmade, no CSS framework.',
     rights: 'All rights reserved.',
   },
 }

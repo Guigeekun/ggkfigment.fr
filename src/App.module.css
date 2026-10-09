@@ -1,0 +1,17 @@
+.page {
+  position: relative;
+}
+
+.main {
+  position: relative;
+  z-index: 1;
+}
+
+.grain {
+  position: fixed;
+  inset: 0;
+  z-index: 200;
+  pointer-events: none;
+  opacity: 0.04;
+  mix-blend-mode: overlay;
+}

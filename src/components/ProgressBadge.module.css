@@ -1,0 +1,39 @@
+.badge {
+  position: fixed;
+  left: 24px;
+  bottom: 24px;
+  z-index: 90;
+  pointer-events: none;
+  font-family: var(--font-mono);
+  font-weight: 300;
+  font-size: 0.7rem;
+  letter-spacing: 0.25em;
+  color: var(--ink-faint);
+}
+
+.num {
+  display: inline-block;
+  animation: numIn 0.4s var(--ease-out-expo) both;
+}
+
+@keyframes numIn {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .num {
+    animation: none;
+  }
+}
+
+@media (max-width: 900px) {
+  .badge {
+    display: none;
+  }
+}

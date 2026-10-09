@@ -1,0 +1,13 @@
+.thread {
+  position: absolute;
+  top: 0;
+  left: 0;
+  pointer-events: none;
+  z-index: 0;
+}
+
+.dot {
+  opacity: 0;
+  filter: drop-shadow(0 0 6px var(--signal));
+  transition: opacity 0.3s;
+}

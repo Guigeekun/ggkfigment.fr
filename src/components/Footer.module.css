@@ -1,0 +1,24 @@
+.footer {
+  border-top: 1px solid var(--hairline);
+  padding-block: 32px;
+}
+
+.inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.item {
+  font-family: var(--font-mono);
+  font-weight: 300;
+  font-size: 0.72rem;
+  letter-spacing: 0.08em;
+  color: var(--ink-faint);
+}
+
+.dot {
+  color: var(--signal);
+}

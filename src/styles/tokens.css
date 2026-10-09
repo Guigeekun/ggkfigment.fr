@@ -1,0 +1,29 @@
+:root {
+  /* Fonds */
+  --void: #05060b;
+  --surface: #0b0d16;
+  --raised: #11141f;
+
+  /* Texte */
+  --ink: #e9ebf4;
+  --ink-dim: #9aa1b8;
+  --ink-faint: #5d6478;
+
+  /* Hairlines */
+  --hairline: rgba(233, 235, 244, 0.08);
+  --hairline-strong: rgba(233, 235, 244, 0.16);
+
+  /* Bleus */
+  --klein: #1e2fd0;
+  --klein-glow: rgba(30, 47, 208, 0.35);
+  --signal: #4d6bff;
+  --edge: #93a8ff;
+
+  /* Typo */
+  --font-display: 'Cormorant Garamond', Georgia, serif;
+  --font-body: 'Inter', system-ui, sans-serif;
+  --font-mono: 'JetBrains Mono', ui-monospace, 'Cascadia Mono', monospace;
+
+  --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
+  --nav-h: 64px;
+}

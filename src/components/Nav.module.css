@@ -118,3 +118,23 @@
     font-size: 1.1rem;
   }
 }
+
+@media (max-width: 480px) {
+  .inner {
+    gap: 8px;
+  }
+  .links {
+    gap: 10px;
+  }
+  .link {
+    font-size: 0.56rem;
+    letter-spacing: 0.06em;
+  }
+  .wordmark {
+    font-size: 1rem;
+  }
+  .lang {
+    font-size: 0.62rem;
+    gap: 3px;
+  }
+}

@@ -9,7 +9,7 @@ const fr = {
   },
   hero: {
     kicker: 'GGK — Guilleme Benoit · compositeur & ingénieur logiciel',
-    titleA: 'Musique. Code.',
+    titleA: 'Ingénierie. Musique.',
     titleB: 'Les deux,',
     titleC: 'bien faits.',
     sub: "Ingénieur logiciel freelance le jour, compositeur la nuit — tout ce que je construis vit ici.",
@@ -77,7 +77,7 @@ const en: Dict = {
   },
   hero: {
     kicker: 'GGK — Guilleme Benoit · composer & software engineer',
-    titleA: 'Music. Code.',
+    titleA: 'Engineering. Music.',
     titleB: 'Both, done',
     titleC: 'properly.',
     sub: 'Freelance software engineer by day, composer by night — everything I build lives here.',

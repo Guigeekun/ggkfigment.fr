@@ -25,7 +25,6 @@ npm run preview   # sert dist/ en local
 
 ## TODO v1
 
-- [ ] `links.email` — remplacer le placeholder `contact@ggkfigment.fr`
 - [ ] `links.spotify` / `links.appleMusic` — URLs artiste exactes
 - [ ] Stack freelance — confirmer/étendre la liste
 - [ ] Disponibilité & zone (remote / sur site) à préciser dans `dict.ts`

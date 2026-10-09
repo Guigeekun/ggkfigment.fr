@@ -36,9 +36,9 @@ function Site() {
         <WaveThread containerRef={pageRef} />
         <main id="contenu" className={styles.main}>
           <Hero />
-          <Music />
-          <Code />
           <Freelance />
+          <Code />
+          <Music />
           <Contact />
         </main>
         <Footer />

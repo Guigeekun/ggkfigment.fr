@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react'
 import styles from './ProgressBadge.module.css'
 
-const IDS = ['hero', 'musique', 'code', 'freelance', 'contact'] as const
+const IDS = ['hero', 'freelance', 'code', 'musique', 'contact'] as const
 
 /** Fixed bottom-left `01 / 05` counter following the active section. */
 export default function ProgressBadge() {

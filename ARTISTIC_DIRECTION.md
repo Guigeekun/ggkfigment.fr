@@ -152,17 +152,17 @@ Lenis (lerp 0.1) ou équivalent maison — jamais au point de casser l'ancre de 
 │    kicker mono : GGK — GUILLEME BENOIT — compositeur · ingénieur         │
 │    CTA : [ Travaillons ensemble ]  [ Écouter ]                           │
 │──────────────────────────────────────────────────────────────────────────│
-│ 02 MUSIQUE — « Musique » + série « Low Effort Music », DnB, expérimental │
-│    3–4 cartes piste : miniature YouTube (facade), durée, lien           │
-│    liens plateformes : YouTube · Spotify · Apple Music                  │
+│ 02 FREELANCE — « Freelance » — pitch services, stack, disponibilité      │
+│    3 colonnes fines : Concevoir / Construire / Accompagner (à préciser)  │
+│    chips stack mono + mention disponibilité (dot signal pulsant)         │
 │──────────────────────────────────────────────────────────────────────────│
 │ 03 CODE — « Code » — dépôts épinglés (Terra-Tools, ffxiv planner, …)     │
 │    cartes : nom mono, description, chips langage (ts · py · js), étoiles│
 │    badge : Arctic Code Vault Contributor (discret, mono)                │
 │──────────────────────────────────────────────────────────────────────────│
-│ 04 FREELANCE — « Freelance » — pitch services, stack, disponibilité      │
-│    3 colonnes fines : Concevoir / Construire / Accompagner (à préciser)  │
-│    chips stack mono + mention disponibilité (dot signal pulsant)         │
+│ 04 MUSIQUE — « Musique » + série « Low Effort Music », DnB, expérimental │
+│    3–4 cartes piste : miniature YouTube (facade), durée, lien           │
+│    liens plateformes : YouTube · Spotify · Apple Music                  │
 │──────────────────────────────────────────────────────────────────────────│
 │ 05 CONTACT — grande phrase serif « Donnons forme à vos idées. »          │
 │    email en grand + icônes fines : YouTube · GitHub · LinkedIn           │

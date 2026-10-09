@@ -6,9 +6,9 @@ export default function Nav() {
   const { lang, setLang, t } = useLang()
 
   const sections = [
-    { id: 'musique', label: t.nav.musique },
-    { id: 'code', label: t.nav.code },
     { id: 'freelance', label: t.nav.freelance },
+    { id: 'code', label: t.nav.code },
+    { id: 'musique', label: t.nav.musique },
     { id: 'contact', label: t.nav.contact },
   ] as const
 

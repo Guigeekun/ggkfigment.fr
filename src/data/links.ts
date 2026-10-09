@@ -1,6 +1,6 @@
-// TODO(v1): remplacer l'email de placeholder et compléter les URLs plateformes.
+// TODO(v1): compléter les URLs plateformes musique (Spotify / Apple Music).
 export const links = {
-  email: 'contact@ggkfigment.fr', // placeholder — à confirmer
+  email: 'guilleme.benoit@gmail.com',
   youtube: 'https://www.youtube.com/@guiguik21',
   github: 'https://github.com/Guigeekun',
   linkedin: 'https://www.linkedin.com/in/guilleme-benoit/',

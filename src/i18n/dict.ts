@@ -18,7 +18,7 @@ const fr = {
     scroll: 'défiler',
   },
   music: {
-    kicker: '02 — Musique',
+    kicker: '04 — Musique',
     title: 'Musique',
     lead: "Drum & bass, expérimentations et séries Low Effort Music — composé à la maison, publié au fil de l'eau.",
     play: 'Écouter',
@@ -32,7 +32,7 @@ const fr = {
     more: 'Voir tout sur GitHub',
   },
   freelance: {
-    kicker: '04 — Freelance',
+    kicker: '02 — Freelance',
     title: 'Freelance',
     lead: "Ingénieur logiciel indépendant — je conçois, construis et livre des applications web de bout en bout.",
     services: [
@@ -86,7 +86,7 @@ const en: Dict = {
     scroll: 'scroll',
   },
   music: {
-    kicker: '02 — Music',
+    kicker: '04 — Music',
     title: 'Music',
     lead: 'Drum & bass, experiments and the Low Effort Music series — made at home, released as it comes.',
     play: 'Listen',
@@ -100,7 +100,7 @@ const en: Dict = {
     more: 'See everything on GitHub',
   },
   freelance: {
-    kicker: '04 — Freelance',
+    kicker: '02 — Freelance',
     title: 'Freelance',
     lead: 'Independent software engineer — I design, build and ship web applications end to end.',
     services: [
